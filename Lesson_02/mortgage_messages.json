@@ -1,0 +1,7 @@
+{
+    "welcome": "Monthly Mortgage Payment Calculator",
+    "loan": "What is the loan amount?",
+    "APR": "What is the Annual Percentage Rate?",
+    "term": "What is the term of the loan in months?",
+    "goodbye": "Thank you for using Mortgage Calculator.  Goodbye!"
+}
