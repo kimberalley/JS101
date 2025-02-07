@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome to Rock, Paper, Scissors!",
+  "selection": "Select rock, paper, or scissors.",
+  "invalid": "Hmm... that doesn't look like a valid choice. Try again.",
+  "youWin": "You win!",
+  "youLose": "You lose :(",
+  "tie": "It's a tie!",
+  "playAgain": "Would you like to play again? (y/n)"
+}
