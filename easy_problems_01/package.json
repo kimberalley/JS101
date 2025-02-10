@@ -1,0 +1,15 @@
+{
+  "name": "easy_problems_01",
+  "version": "1.0.0",
+  "main": "odd.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
