@@ -49,7 +49,7 @@ const product = int => {
 //* EXECUTION
 prompt('Welcome to Sum or Product Calculator!');
 
-prompt('Please enter an integer greater than 0:');
+prompt('Please enter an integer greater than 0 and less than 20:');
 let integer = READLINE.question();
 
 while (invalid(integer)) {
